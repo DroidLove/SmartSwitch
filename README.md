@@ -2,7 +2,9 @@
 Using Android Things iot OS via Raspberry pi 3 to switch LED bulb on/off via Android Client Mobile App. We used Firebase as the basis for connecting medium.
 
 Check it in action on https://www.youtube.com/watch?v=XFgwbbD7fMY.
- 
+
+The mobile controlling client for this project : https://github.com/DroidLove/SmartSwitchMobileClient/tree/master
+
  ## License
 
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
